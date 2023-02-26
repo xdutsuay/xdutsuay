@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @xdutsuay
+👋 Hey there, I'm @xdutsuay! 🤖
 
-This Repro work is in progress, Heavily loaded with work and party hence github can wait.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...https://www.linkedin.com/in/kaustubhmanitripathi/
+I'm a 💻 dynamic software engineer with a passion for solving 🤯 complex technical problems and pushing the boundaries of computer science problem-solving. Currently, I'm working on a top-secret project that will change the world 🌎.
 
-<!---
-xdutsuay/xdutsuay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm always learning and exploring new technologies in 📊 data engineering, 💻 operating systems, and 🧩 data structures to make a positive impact 💥 on the software industry. I'm a 🔧 powerhouse team player with excellent communication skills and a track record of successfully fixing complex bugs.
+
+When not coding, you can find me exploring various interests including 🧠 psychology, 🔬 physics, 💰 finance, and thought-provoking debates 🤔.
+
+By the way, did you know that this code print(' '.join((lambda x: [chr(c) for c in x])([75, 65, 85, 83, 84, 85, 66, 72]))) prints "KAUSTUBH"? 😎
+
+Let's connect on LinkedIn: https://www.linkedin.com/in/kaustubhmanitripathi/
