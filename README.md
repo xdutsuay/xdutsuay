@@ -19,7 +19,7 @@ Data Engineer • Cloud Systems • Platform & Automation
 
 ```yaml
 name: Kaustubh Mani Tripathi
-experience: 6+ years
+experience: 7+ years
 primary_domain: Data Engineering
 secondary_interests:
   - Cloud Architecture (AWS / GCP)
