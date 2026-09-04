@@ -1,16 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Kaustubh%20Mani%20Tripathi&fontSize=36&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=Kaustubh%20Mani%20Tripathi&fontSize=38&fontColor=fff&fontAlignY=40&desc=Data%20Engineer%20%E2%80%A2%20Cloud%20Systems%20%E2%80%A2%20AI%20Tooling&descSize=14&descAlignY=60&animation=fadeIn" />
 </p>
 
-<h3 align="center">
-Data Engineer • Cloud Systems • Platform & Automation
-</h3>
+<p align="center">
+  <b>Building scalable data platforms by day · shipping AI systems & developer tools by night</b>
+</p>
 
 <p align="center">
-  <a href="https://github.com/xdutsuay">
-    <img src="https://img.shields.io/github/followers/xdutsuay?label=Followers&style=social" />
+  <a href="https://github.com/xdutsuay?tab=followers">
+    <img src="https://img.shields.io/github/followers/xdutsuay?label=Followers&style=social" alt="Followers" />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=xdutsuay.xdutsuay" />
+  &nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=xdutsuay.xdutsuay&left_color=gray&right_color=blue" alt="Profile visitors" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/xdutsuay?affiliations=OWNER&style=social" alt="Stars" />
+</p>
+
+<p align="center">
+  <a href="#-about-me">About</a> ·
+  <a href="#-featured-work">Featured Work</a> ·
+  <a href="#-tech-stack">Tech Stack</a> ·
+  <a href="#-github-activity">Activity</a> ·
+  <a href="#-connect">Connect</a>
 </p>
 
 ---
@@ -20,89 +31,138 @@ Data Engineer • Cloud Systems • Platform & Automation
 ```yaml
 name: Kaustubh Mani Tripathi
 experience: 7+ years
-primary_domain: Data Engineering
-secondary_interests:
-  - Cloud Architecture (AWS / GCP)
-  - Distributed Systems
-  - LLMs & Applied AI
-  - Automation & Tooling
-current_focus:
-  - Building scalable data platforms
-  - Moving towards product-based engineering roles
+role: Data Engineer
+stack_core: [Python, Spark, AWS, Airflow, SQL]
+building_now:
+  - Native AI IDE (Chidori) + Android companion
+  - Distributed / on-device LLM workflows
+  - Automation tooling for creators & platforms
+looking_for: Product-minded engineering roles at the data × AI edge
 ```
 
-I work at the intersection of **data, cloud, and systems**.
-Most of my work revolves around **large-scale pipelines, performance optimization, reliability, and automation**, with growing focus on **LLMs and AI-enabled systems**.
+I work at the intersection of **data platforms, cloud systems, and applied AI**.  
+Most of my professional work is **pipelines, performance, reliability, and automation** — and my public repos explore **LLMs, local agents, and tools people can actually run**.
+
+---
+
+## 🚀 Featured Work
+
+<p align="center">
+  <a href="https://github.com/xdutsuay/chidori">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xdutsuay&repo=chidori&theme=tokyonight&hide_border=true" alt="chidori" />
+  </a>
+  <a href="https://github.com/xdutsuay/chidori-nagasa">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xdutsuay&repo=chidori-nagasa&theme=tokyonight&hide_border=true" alt="chidori-nagasa" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/xdutsuay/clip-studio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xdutsuay&repo=clip-studio&theme=tokyonight&hide_border=true" alt="clip-studio" />
+  </a>
+  <a href="https://github.com/xdutsuay/shatrunZ">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xdutsuay&repo=shatrunZ&theme=tokyonight&hide_border=true" alt="shatrunZ" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/xdutsuay/local-distributed-llm-lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xdutsuay&repo=local-distributed-llm-lab&theme=tokyonight&hide_border=true" alt="local-distributed-llm-lab" />
+  </a>
+  <a href="https://github.com/xdutsuay/Agent-Observer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xdutsuay&repo=Agent-Observer&theme=tokyonight&hide_border=true" alt="Agent-Observer" />
+  </a>
+</p>
+
+| Project | What it is |
+|--------|------------|
+| [**chidori**](https://github.com/xdutsuay/chidori) | Cross-platform native AI IDE — releases & docs |
+| [**chidori-nagasa**](https://github.com/xdutsuay/chidori-nagasa) | Android companion — on-device LLM chat + desktop coordinator |
+| [**clip-studio**](https://github.com/xdutsuay/clip-studio) | Trending-audio clips + LinkedIn carousel war room (CLI + GUI) |
+| [**shatrunZ**](https://github.com/xdutsuay/shatrunZ) | 9×9 chess variant — C UCI engine, web UI, optional ML policy |
+| [**local-distributed-llm-lab**](https://github.com/xdutsuay/local-distributed-llm-lab) | Pool LAN devices to share LLM inference & decisions |
+| [**Agent-Observer**](https://github.com/xdutsuay/Agent-Observer) | TypeScript tooling to observe and inspect agent behavior |
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-333?logo=python)
-![Scala](https://img.shields.io/badge/Scala-333?logo=scala)
-![SQL](https://img.shields.io/badge/SQL-333?logo=postgresql)
-![Go](https://img.shields.io/badge/Go-333?logo=go)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Data & Compute
-![PySpark](https://img.shields.io/badge/PySpark-333?logo=apachespark)
-![AWS Glue](https://img.shields.io/badge/AWS%20Glue-333?logo=amazonaws)
-![Airflow](https://img.shields.io/badge/Airflow-333?logo=apacheairflow)
-![EMR](https://img.shields.io/badge/EMR-333?logo=amazonaws)
-![Redshift](https://img.shields.io/badge/Redshift-333?logo=amazonredshift)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![EMR](https://img.shields.io/badge/EMR-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
 
 ### Cloud & Infra
-![AWS](https://img.shields.io/badge/AWS-333?logo=amazonaws)
-![GCP](https://img.shields.io/badge/GCP-333?logo=googlecloud)
-![Docker](https://img.shields.io/badge/Docker-333?logo=docker)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Tooling & Dev
-![Git](https://img.shields.io/badge/Git-333?logo=git)
-![Linux](https://img.shields.io/badge/Linux-333?logo=linux)
-![VS Code](https://img.shields.io/badge/VS%20Code-333?logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xdutsuay&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xdutsuay&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdutsuay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xdutsuay&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=xdutsuay&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdutsuay&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xdutsuay&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 ---
 
-## 🚀 What I Build
+## 🧭 What I Build
 
-- Scalable data pipelines (batch + incremental)
-- Schema-aware backup & lineage systems
-- Performance-optimized Glue / Spark jobs
+- Scalable **batch + incremental** data pipelines
+- Schema-aware backup, lineage, and reliability systems
+- Performance-tuned **Glue / Spark** workloads
 - Developer tools & internal platforms
-- LLM-driven utilities & automation workflows
+- **LLM-driven** utilities, local agents, and automation workflows
 
 ---
 
 ## 🧠 Current Learning Tracks
 
-- Large Language Models (internals + system design)
-- Vector workflows & embedded data engineering
+- LLM internals & system design
+- Vector workflows for data engineering
 - Go for backend & infra tooling
 - Advanced Spark / query optimization
-- Interview preparation for product-based companies
+- Product-company interview prep
 
 ---
 
 ## 📫 Connect
 
-- GitHub: https://github.com/xdutsuay
+<p align="center">
+  <a href="https://github.com/xdutsuay">
+    <img src="https://img.shields.io/badge/GitHub-xdutsuay-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 <p align="center">
   <i>“Good systems are boring. That’s how you know they work.”</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer" alt="" />
 </p>
