@@ -47,41 +47,44 @@ Most of my professional work is **pipelines, performance, reliability, and autom
 
 ## 🚀 Featured Work
 
-<p align="center">
-  <a href="https://github.com/xdutsuay/chidori">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xdutsuay&repo=chidori&theme=tokyonight&hide_border=true" alt="chidori" />
-  </a>
-  <a href="https://github.com/xdutsuay/chidori-nagasa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xdutsuay&repo=chidori-nagasa&theme=tokyonight&hide_border=true" alt="chidori-nagasa" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/xdutsuay/clip-studio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xdutsuay&repo=clip-studio&theme=tokyonight&hide_border=true" alt="clip-studio" />
-  </a>
-  <a href="https://github.com/xdutsuay/shatrunZ">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xdutsuay&repo=shatrunZ&theme=tokyonight&hide_border=true" alt="shatrunZ" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/xdutsuay/local-distributed-llm-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xdutsuay&repo=local-distributed-llm-lab&theme=tokyonight&hide_border=true" alt="local-distributed-llm-lab" />
-  </a>
-  <a href="https://github.com/xdutsuay/Agent-Observer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xdutsuay&repo=Agent-Observer&theme=tokyonight&hide_border=true" alt="Agent-Observer" />
-  </a>
-</p>
-
-| Project | What it is |
-|--------|------------|
-| [**chidori**](https://github.com/xdutsuay/chidori) | Cross-platform native AI IDE — releases & docs |
-| [**chidori-nagasa**](https://github.com/xdutsuay/chidori-nagasa) | Android companion — on-device LLM chat + desktop coordinator |
-| [**clip-studio**](https://github.com/xdutsuay/clip-studio) | Trending-audio clips + LinkedIn carousel war room (CLI + GUI) |
-| [**shatrunZ**](https://github.com/xdutsuay/shatrunZ) | 9×9 chess variant — C UCI engine, web UI, optional ML policy |
-| [**local-distributed-llm-lab**](https://github.com/xdutsuay/local-distributed-llm-lab) | Pool LAN devices to share LLM inference & decisions |
-| [**Agent-Observer**](https://github.com/xdutsuay/Agent-Observer) | TypeScript tooling to observe and inspect agent behavior |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/xdutsuay/chidori">🗡️ chidori</a></h3>
+      <p>Cross-platform native AI IDE — releases &amp; docs for a local-first coding agent.</p>
+      <p><code>ai</code> · <code>ide</code> · <code>llm</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/xdutsuay/chidori-nagasa">📱 chidori-nagasa</a></h3>
+      <p>Android companion — on-device LLM chat paired with a desktop coordinator.</p>
+      <p><code>android</code> · <code>kotlin</code> · <code>on-device-ai</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/xdutsuay/clip-studio">🎬 clip-studio</a></h3>
+      <p>Trending-audio clip finder + LinkedIn carousel war room (CLI + GUI).</p>
+      <p><code>python</code> · <code>cli</code> · <code>content-tools</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/xdutsuay/shatrunZ">♟️ shatrunZ</a></h3>
+      <p>9×9 chess variant with C UCI engine, web UI, and optional ML policy training.</p>
+      <p><code>chess</code> · <code>uci</code> · <code>javascript</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/xdutsuay/local-distributed-llm-lab">🕸️ local-distributed-llm-lab</a></h3>
+      <p>Pool devices over LAN to share LLM inference and collaborative decisions.</p>
+      <p><code>llm</code> · <code>distributed-systems</code> · <code>lan</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/xdutsuay/Agent-Observer">🔭 Agent-Observer</a></h3>
+      <p>TypeScript tooling to observe, inspect, and debug AI agent behavior live.</p>
+      <p><code>typescript</code> · <code>agents</code> · <code>observability</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -122,7 +125,7 @@ Most of my professional work is **pipelines, performance, reliability, and autom
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=xdutsuay&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=xdutsuay&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
